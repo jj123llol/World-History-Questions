@@ -1,1 +1,8 @@
-
+body {
+    background-color: rgb(32, 32, 32);
+    align-items: center;
+    font-family: Monaco, monospace;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    height: max(90vh, 650px);
+}
