@@ -21,7 +21,12 @@ questions = {
 	"What building, owned by the local lord, was the center of daily life in the feudal system?": "The Manor", // 7
 	"Who was the leader of the Catholic Church in a kingdom?": "The Bishop", // 8
 	"True or False: The Bishops of the Catholic Church were typically poor and had little power in the kingdom.": "False", // 9
-	"Who owned everything in a village, including the crops, town, and peasants?": "The Lords" // 10
+	"Who owned everything in a village, including the crops, town, and peasants?": "The Lords", // 10
+
+	// Crusades
+	"Who fought each other in the Crusades?": "Christans And Muslims", // 1
+	"The city of Jerusalem is important to what three major religions?": "Christianity, Islam, and Judaism", // 2
+	"The First Crusade got started when the Seljuk Turks did what?": "preventing Christians from entering Jerusalem",// 3
 }
 
 var currentQuestion = 0
