@@ -1,9 +1,14 @@
 questions = {
-	"Why Did They Wear Masks For The Black Death?": "They Thought The Smell Made People Sick",
-	"Why Wernt Jews Affected By Black Death?": "They Were Clean And Refused To Eat Dirty Foods",
-	"What Happened To The Jews During Black Death?" : "Prosecuted",
-	"What Were The Jews Accused Of During Black Death?": "Poisoning The Wells",
-	"How Was The Black Death Transmitted?": "Fleas On Rats"
+	"Why Did They Wear Masks For The Black Death?": "They Thought The Smell Made People Sick", // 1
+	"Why Wernt Jews Affected By Black Death?": "They Were Clean And Refused To Eat Dirty Foods", // 2
+	"What Happened To The Jews During Black Death?" : "Prosecuted", // 3
+	"What Were The Jews Accused Of During Black Death?": "Poisoning The Wells", // 4
+	"How Was The Black Death Transmitted?": "Fleas On Rats", // 5
+	"What Was The Black Death?": "Disease That Spread TO Europe", // 6 
+	"How Long Was The Black Death In Europe?": "Four Years", //7
+	"Where Did The Black Death Come From?": "Eastern And Centeral Asia", // 8
+	"How Did The Rats And Fleas Thrive During Black Death?": "The Dirty Conditions", // 9
+	"How Did The Black Death Spread To The Country Side?": "People Moved Out Of The Cities, Bringing It With Them." // 10
 }
 
 var currentQuestion = 0
