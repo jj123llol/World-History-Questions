@@ -27,6 +27,13 @@ questions = {
 	"Who fought each other in the Crusades?": "Christans And Muslims", // 1
 	"The city of Jerusalem is important to what three major religions?": "Christianity, Islam, and Judaism", // 2
 	"The First Crusade got started when the Seljuk Turks did what?": "preventing Christians from entering Jerusalem",// 3
+	"When Did The First Crusade Start?": "1095", // 4
+	"When Did The First Crusade End?": "1099", // 5
+	"What Was The Childrens Crusade?": "A Army Of Children Gathered Because A Kid Said God Told Him He Had To", // 6
+	"What Happened To The Children Of The Childrens Crusade?": "They Were Sold As Slaves", // 7
+	"How Long Did The Second Crusade Last?": "1147-1149", // 8
+	"How Long Did The Third Crusade Last?": "1187-1192", // 9
+	"how long did the fourth crusade last?": "1202-1204" // 10
 }
 
 var currentQuestion = 0
